@@ -6,9 +6,9 @@ This repository contains the source code and documentation for the Vegetable Cla
 
 The project follows a systematic approach to achieve its goals:
 
-- _Data Preparation_: The VegNet dataset is carefully analyzed, preprocessed, and augmented to ensure optimal performance during model training and evaluation.
-- _Model Selection and Fine-tuning_: Pretrained models provided by PyTorch are selected as the foundation, and they are fine-tuned to adapt to the specific task of vegetable classification and quality assessment.
-- _Training and Evaluation with 5-Fold Cross Validation_: The models undergo training using a subset of the VegNet dataset, and their performance is evaluated using 5-fold cross validation. The dataset is divided into five distinct subsets or folds, with each fold serving as the testing set once while the remaining four folds are used for training.
+- **Data Preparation**: The VegNet dataset is carefully analyzed, preprocessed, and augmented to ensure optimal performance during model training and evaluation.
+- **Model Selection and Fine-tuning**: Pretrained models provided by PyTorch are selected as the foundation, and they are fine-tuned to adapt to the specific task of vegetable classification and quality assessment.
+- **Training and Evaluation**: The models undergo training using a subset of the VegNet dataset, and their performance is evaluated using _5-fold cross validation_. The dataset is divided into five distinct subsets or folds, with each fold serving as the testing set once while the remaining four folds are used for training.
 
 ## Requirements
 
