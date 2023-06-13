@@ -35,7 +35,7 @@ Contributions to enhance the project are highly appreciated. If you encounter an
 
 This repository is licensed under the [MIT License](./LICENSE).
 
-Please note that while the code and documentation in this repository are licensed under the MIT License, the VegNet dataset used in this project is licensed under a [CC 4.0 license](https://creativecommons.org/licenses/by/4.0/). These licenses apply to different aspects of the project, allowing for the separation of code licensing and dataset licensing.
+Please note that while the code and documentation in this repository are licensed under the MIT License, the VegNet dataset used in this project is licensed under a [CC 4.0 License](https://creativecommons.org/licenses/by/4.0/). These licenses apply to different aspects of the project, allowing for the separation of code licensing and dataset licensing.
 
 ## Acknowlegdements
 
