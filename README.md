@@ -49,4 +49,4 @@ We would like to express our gratitude to the developers and contributors of the
 
 We would also like to acknowledge _Google Colab_ for providing an excellent platform for executing the project and [VegNet](https://data.mendeley.com/datasets/6nxnjbn9w6) for providing the dataset used in this project.
 
-Special thanks to our teacher, [Sabbir Ahmed](https://www.researchgate.net/profile/Sabbir-Ahmed-28), for introducing us to the paper "Fruit Quality Assessment with Densely Connected Convolutional Neural Network". Their guidance and insights derived from the paper have greatly influenced the development and direction of this project.
+Special thanks to our teacher, [Sabbir Ahmed](https://www.researchgate.net/profile/Sabbir-Ahmed-28), for introducing us to the paper **[Fruit Quality Assessment with Densely Connected Convolutional Neural Network](https://arxiv.org/pdf/2212.04255.pdf)**. Their guidance and insights derived from the paper have greatly influenced the development and direction of this project.
