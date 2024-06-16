@@ -19,6 +19,7 @@ To run the code and reproduce the results, the following dependencies are requir
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
 - Scikit-learn
 
 To execute our project, we have chosen to work on a _Google Colab_ notebook. This will provide us with a convenient and accessible environment
